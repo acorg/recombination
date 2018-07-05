@@ -27,7 +27,7 @@ NEWICK := $(PHYML_NEWICK) $(RAXML_NEWICK)
 all: $(OUTDIR) $(ASCII) $(NEWICK)
 
 out:
-	test -d out || mkdir out
+	test -d $(OUTDIR) || mkdir $(OUTDIR)
 
 $(OUTDIR)/%.fasta : %.json
 	seq-gen.py --specification $< > $@
