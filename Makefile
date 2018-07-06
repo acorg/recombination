@@ -7,13 +7,6 @@ CORES := $(shell test $$(uname) = Linux && echo $$(nproc --all) || echo $$(sysct
 
 JSON := $(wildcard *.json)
 
-# PHY := $(JSON:.json=.phy)
-# FASTA := $(JSON:.json=.fasta)
-# PHYML_ASCII := $(JSON:.json=-phyml.ascii)
-# RAXML_ASCII := $(JSON:.json=-raxml.ascii)
-# PHYML_NEWICK := $(JSON:.json=-phyml.newick)
-# RAXML_NEWICK := $(JSON:.json=-raxml.newick)
-
 PHY := $(patsubst %.json, $(OUTDIR)/%.phy, $(JSON))
 FASTA := $(patsubst %.json, $(OUTDIR)/%.fasta, $(JSON))
 PHYML_ASCII := $(patsubst %.json, $(OUTDIR)/%-phyml.ascii, $(JSON))
@@ -46,7 +39,7 @@ $(OUTDIR)/%-raxml.newick: $(OUTDIR)/%.phy
 	rm -f *.xxxxx
 
 $(OUTDIR)/%.ascii: $(OUTDIR)/%.newick
-	draw-tree-ascii.py --outgroup $(OUTGROUP) < $< > $@
+	newick-to-ascii.py --outgroup $(OUTGROUP) < $< > $@
 
 clean:
 	rm -f $(ASCII) $(NEWICK) $(PHY) $(OUTDIR)/*xxxxx* *.xxxxx
