@@ -34,15 +34,16 @@ $(OUTDIR)/%-phyml.newick: $(OUTDIR)/%.phy
 	rm -f $(OUTDIR)/*.phy_phyml_*_xxxxx*
 
 $(OUTDIR)/%-raxml.newick: $(OUTDIR)/%.phy
-	raxmlHPC-PTHREADS -T $(CORES) -n xxxxx -m GTRCAT -s $< -p $$RANDOM >/dev/null
-	mv RAxML_bestTree.xxxxx $@
-	rm -f *.xxxxx
+#	raxmlHPC-PTHREADS -T $(CORES) -n xxxxx -m GTRCAT -s $< -p $$RANDOM >/dev/null
+	raxml-ng --msa $< --model GTR+G --prefix xxxxx --seed $$RANDOM --threads 1 >/dev/null
+	mv xxxxx.raxml.bestTree $@
+	rm -f xxxxx.*
 
 $(OUTDIR)/%.ascii: $(OUTDIR)/%.newick
 	newick-to-ascii.py --outgroup $(OUTGROUP) < $< > $@
 
 clean:
-	rm -f $(ASCII) $(NEWICK) $(PHY) $(OUTDIR)/*xxxxx* *.xxxxx
+	rm -f $(ASCII) $(NEWICK) $(PHY) $(OUTDIR)/*xxxxx* xxxxx.*
 
 clobber: clean
 	rm -fr $(OUTDIR)
