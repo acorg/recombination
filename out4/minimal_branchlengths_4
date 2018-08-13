@@ -1,0 +1,36 @@
+Analysing sample: recombinant-50A1-50B1-raxml.newick
+The leaf with the biggest minimal distance to another leaf is B-mutant-7, to B-mutant-6.
+The leaf with the parental node with a minimal branch bootstrap value is recombinant.
+
+
+Analysing sample: recombinant-50A1-50B9-raxml.newick
+The leaf with the biggest minimal distance to another leaf is recombinant, to B-mutant-9.
+The leaf with the parental node with a minimal branch bootstrap value is B-mutant-9.
+
+
+Analysing sample: recombinant-50A5-50random-raxml.newick
+The leaf with the biggest minimal distance to another leaf is recombinant, to A-mutant-5.
+The leaf with the parental node with a minimal branch bootstrap value is recombinant.
+
+
+Analysing sample: recombinant-75A1-25B1-raxml.newick
+The leaf with the biggest minimal distance to another leaf is recombinant, to A-mutant-1.
+The leaf with the parental node with a minimal branch bootstrap value is root.
+
+
+Analysing sample: recombinant-75A1-25B9-raxml.newick
+The leaf with the biggest minimal distance to another leaf is recombinant, to A-mutant-1.
+The leaf with the parental node with a minimal branch bootstrap value is B-mutant-5.
+
+
+Analysing sample: recombinant-75A5-25B5-raxml.newick
+The leaf with the biggest minimal distance to another leaf is recombinant, to A-mutant-5.
+The leaf with the parental node with a minimal branch bootstrap value is A-mutant-8.
+
+
+Analysing sample: two-ladders-raxml.newick
+There is no recombinant in this sample.
+The leaf with the biggest minimal distance to another leaf is root, to B.
+The leaf with the parental node with a minimal branch bootstrap value is B-mutant-4.
+
+

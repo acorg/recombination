@@ -1,0 +1,335 @@
+Sample: recombinant-50A1-50B1-raxml.newick
+
+   /-root
+  |
+  |      /-A
+  |     |
+  |     |      /-A-mutant-1
+  |     |     |
+  |     |     |      /-A-mutant-3
+  |     |     |     |
+--|   /-|     |   /-|   /-A-mutant-4
+  |  |  |   /-|  |  |  |
+  |  |  |  |  |  |   \-|   /-A-mutant-5
+  |  |  |  |  |  |     |  |
+  |  |  |  |  |  |     |  |         /-A-mutant-9
+  |  |  |  |  |  |      \-|      /-|
+  |  |  |  |   \-|        |   /-|   \-A-mutant-8
+  |  |   \-|     |        |  |  |
+  |  |     |     |         \-|   \-A-mutant-7
+   \-|     |     |           |
+     |     |     |            \-A-mutant-6
+     |     |     |
+     |     |      \-A-mutant-2
+     |     |
+     |      \-recombinant
+     |
+     |   /-B
+     |  |
+     |  |   /-B-mutant-1
+      \-|  |
+        |  |      /-B-mutant-3
+        |  |     |
+        |  |     |      /-B-mutant-5
+         \-|     |     |
+           |   /-|     |         /-B-mutant-9
+           |  |  |   /-|      /-|
+           |  |  |  |  |   /-|   \-B-mutant-8
+           |  |  |  |  |  |  |
+           |  |   \-|   \-|   \-B-mutant-7
+            \-|     |     |
+              |     |      \-B-mutant-6
+              |     |
+              |      \-B-mutant-4
+              |
+               \-B-mutant-2
+The maximal distance of a node to its uptree node is 0.187367, for recombinant to A.
+
+
+Sample: recombinant-50A1-50B9-raxml.newick
+
+   /-root
+  |
+  |            /-B-mutant-2
+  |           |
+  |           |                     /-recombinant
+  |           |                  /-|
+  |           |               /-|   \-B-mutant-9
+  |           |              |  |
+  |           |            /-|   \-B-mutant-8
+  |         /-|           |  |
+  |        |  |         /-|   \-B-mutant-7
+--|        |  |        |  |
+  |        |  |      /-|   \-B-mutant-6
+  |        |  |     |  |
+  |      /-|  |   /-|   \-B-mutant-5
+  |     |  |  |  |  |
+  |     |  |   \-|   \-B-mutant-4
+  |     |  |     |
+  |   /-|  |      \-B-mutant-3
+  |  |  |  |
+  |  |  |   \-B-mutant-1
+  |  |  |
+   \-|   \-B
+     |
+     |   /-A
+     |  |
+      \-|   /-A-mutant-1
+        |  |
+         \-|   /-A-mutant-2
+           |  |
+            \-|   /-A-mutant-3
+              |  |
+               \-|   /-A-mutant-4
+                 |  |
+                  \-|   /-A-mutant-5
+                    |  |
+                     \-|      /-A-mutant-7
+                       |   /-|
+                       |  |  |   /-A-mutant-9
+                        \-|   \-|
+                          |      \-A-mutant-8
+                          |
+                           \-A-mutant-6
+The maximal distance of a node to its uptree node is 0.295352, for recombinant to B-mutant-8.
+
+
+Sample: recombinant-50A5-50random-raxml.newick
+
+   /-root
+  |
+  |         /-B-mutant-1
+  |        |
+  |        |      /-B-mutant-3
+  |        |     |
+  |        |     |      /-B-mutant-5
+  |      /-|     |     |
+  |     |  |   /-|     |         /-B-mutant-9
+  |     |  |  |  |   /-|      /-|
+--|     |  |  |  |  |  |   /-|   \-B-mutant-8
+  |     |  |  |  |  |  |  |  |
+  |     |  |  |   \-|   \-|   \-B-mutant-7
+  |   /-|   \-|     |     |
+  |  |  |     |     |      \-B-mutant-6
+  |  |  |     |     |
+  |  |  |     |      \-B-mutant-4
+  |  |  |     |
+  |  |  |      \-B-mutant-2
+  |  |  |
+   \-|   \-B
+     |
+     |   /-A
+     |  |
+     |  |      /-A-mutant-2
+     |  |     |
+     |  |   /-|   /-A-mutant-3
+     |  |  |  |  |
+      \-|  |  |  |   /-A-mutant-4
+        |  |   \-|  |
+        |  |     |  |            /-A-mutant-9
+        |  |     |  |         /-|
+        |  |      \-|      /-|   \-A-mutant-8
+        |  |        |     |  |
+         \-|        |   /-|   \-A-mutant-7
+           |        |  |  |
+           |         \-|   \-A-mutant-6
+           |           |
+           |           |   /-recombinant
+           |            \-|
+           |               \-A-mutant-5
+           |
+            \-A-mutant-1
+The maximal distance of a node to its uptree node is 0.604658, for A-mutant-6 to recombinant.
+
+
+Sample: recombinant-75A1-25B1-raxml.newick
+
+   /-root
+  |
+  |      /-A
+  |     |
+  |   /-|   /-A-mutant-1
+  |  |  |  |
+  |  |   \-|   /-recombinant
+--|  |     |  |
+  |  |      \-|   /-A-mutant-2
+  |  |        |  |
+  |  |         \-|   /-A-mutant-3
+  |  |           |  |
+  |  |            \-|   /-A-mutant-4
+  |  |              |  |
+  |  |              |  |      /-A-mutant-6
+   \-|               \-|     |
+     |                 |   /-|      /-A-mutant-9
+     |                 |  |  |   /-|
+     |                 |  |   \-|   \-A-mutant-8
+     |                  \-|     |
+     |                    |      \-A-mutant-7
+     |                    |
+     |                     \-A-mutant-5
+     |
+     |   /-B
+     |  |
+      \-|   /-B-mutant-1
+        |  |
+         \-|   /-B-mutant-2
+           |  |
+            \-|   /-B-mutant-3
+              |  |
+               \-|   /-B-mutant-4
+                 |  |
+                  \-|   /-B-mutant-5
+                    |  |
+                     \-|   /-B-mutant-6
+                       |  |
+                        \-|      /-B-mutant-8
+                          |   /-|
+                           \-|   \-B-mutant-9
+                             |
+                              \-B-mutant-7
+The maximal distance of a node to its uptree node is 0.120390, for A-mutant-2 to recombinant.
+
+
+Sample: recombinant-75A1-25B9-raxml.newick
+
+   /-root
+  |
+  |         /-B-mutant-1
+  |        |
+  |        |      /-B-mutant-3
+  |        |     |
+  |        |   /-|   /-B-mutant-4
+  |      /-|  |  |  |
+  |     |  |  |  |  |      /-B-mutant-6
+--|     |  |  |   \-|     |
+  |     |  |  |     |   /-|      /-B-mutant-9
+  |     |  |  |     |  |  |   /-|
+  |     |   \-|     |  |   \-|   \-B-mutant-8
+  |   /-|     |      \-|     |
+  |  |  |     |        |      \-B-mutant-7
+  |  |  |     |        |
+  |  |  |     |         \-B-mutant-5
+  |  |  |     |
+   \-|  |      \-B-mutant-2
+     |  |
+     |   \-B
+     |
+     |   /-recombinant
+     |  |
+      \-|   /-A
+        |  |
+         \-|   /-A-mutant-1
+           |  |
+            \-|   /-A-mutant-2
+              |  |
+               \-|   /-A-mutant-3
+                 |  |
+                  \-|   /-A-mutant-4
+                    |  |
+                     \-|   /-A-mutant-5
+                       |  |
+                       |  |         /-A-mutant-9
+                        \-|      /-|
+                          |   /-|   \-A-mutant-8
+                          |  |  |
+                           \-|   \-A-mutant-7
+                             |
+                              \-A-mutant-6
+The maximal distance of a node to its uptree node is 0.153729, for recombinant to root.
+
+
+Sample: recombinant-75A5-25B5-raxml.newick
+
+   /-root
+  |
+  |         /-A-mutant-1
+  |        |
+  |        |      /-A-mutant-3
+  |        |     |
+  |        |     |   /-recombinant
+  |      /-|   /-|  |
+  |     |  |  |  |  |            /-A-mutant-7
+  |     |  |  |  |  |         /-|
+  |     |  |  |   \-|        |  |   /-A-mutant-9
+  |     |  |  |     |      /-|   \-|
+--|     |  |  |     |     |  |      \-A-mutant-8
+  |     |   \-|     |   /-|  |
+  |   /-|     |     |  |  |   \-A-mutant-6
+  |  |  |     |      \-|  |
+  |  |  |     |        |   \-A-mutant-5
+  |  |  |     |        |
+  |  |  |     |         \-A-mutant-4
+  |  |  |     |
+  |  |  |      \-A-mutant-2
+  |  |  |
+  |  |   \-A
+  |  |
+   \-|      /-B-mutant-1
+     |     |
+     |     |      /-B-mutant-3
+     |     |     |
+     |     |   /-|   /-B-mutant-4
+     |   /-|  |  |  |
+     |  |  |  |   \-|   /-B-mutant-5
+     |  |  |  |     |  |
+     |  |  |  |      \-|   /-B-mutant-6
+     |  |  |  |        |  |
+     |  |   \-|         \-|      /-B-mutant-9
+      \-|     |           |   /-|
+        |     |            \-|   \-B-mutant-8
+        |     |              |
+        |     |               \-B-mutant-7
+        |     |
+        |      \-B-mutant-2
+        |
+         \-B
+The maximal distance of a node to its uptree node is 0.197925, for A-mutant-4 to recombinant.
+
+
+Sample: two-ladders-raxml.newick
+There is no recombinant in this sample.
+
+   /-root
+  |
+  |         /-B-mutant-1
+  |        |
+  |      /-|   /-B-mutant-2
+  |     |  |  |
+  |     |  |  |   /-B-mutant-3
+  |     |   \-|  |
+  |     |     |  |         /-B-mutant-6
+  |     |     |  |      /-|
+  |     |      \-|     |  |   /-B-mutant-7
+--|     |        |     |   \-|
+  |   /-|        |   /-|     |   /-B-mutant-8
+  |  |  |        |  |  |      \-|
+  |  |  |        |  |  |         \-B-mutant-9
+  |  |  |         \-|  |
+  |  |  |           |   \-B-mutant-5
+  |  |  |           |
+  |  |  |            \-B-mutant-4
+  |  |  |
+  |  |   \-B
+  |  |
+  |  |         /-A-mutant-2
+   \-|        |
+     |        |   /-A-mutant-3
+     |      /-|  |
+     |     |  |  |            /-A-mutant-7
+     |     |  |  |         /-|
+     |     |   \-|        |  |   /-A-mutant-9
+     |     |     |      /-|   \-|
+     |     |     |     |  |      \-A-mutant-8
+     |   /-|     |   /-|  |
+     |  |  |     |  |  |   \-A-mutant-6
+     |  |  |      \-|  |
+     |  |  |        |   \-A-mutant-5
+      \-|  |        |
+        |  |         \-A-mutant-4
+        |  |
+        |   \-A-mutant-1
+        |
+         \-A
+The maximal distance of a node to its uptree node is 0.155261, for A to root.
+
+
