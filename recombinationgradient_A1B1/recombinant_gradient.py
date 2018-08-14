@@ -20,7 +20,9 @@ def rec_parentdistance(newickfile):
 
     # Find distance from recombinant to A1
     A1distance = t.get_distance("recombinant", "A-mutant-1")
+    print("Distance of A1 to recombinant is %f" %(A1distance))
     B1distance = t.get_distance("recombinant", "B-mutant-1")
+    print("Distance of B1 to recombinant is %f" %(B1distance))
 
     return(A1distance, B1distance)
 
@@ -47,5 +49,5 @@ plt.xlabel("Percentage of recombinant from A1 (from B1=100-A1)", fontsize=14)
 plt.ylabel('Distance to recombinant', fontsize=14)
 plt.legend(fontsize=12)
 plt.tight_layout()
-plotpath = '../recombinants_A1B1.png'
+plotpath = 'recombinants_A1B1.png'
 plt.savefig(plotpath, dpi=300)

@@ -1,0 +1,405 @@
+Analysing sample: recombinant-10A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-A
+  |     |
+  |     |                        /-A-mutant-9
+  |     |                     /-|
+  |     |                  /-|   \-A-mutant-8
+  |     |                 |  |
+  |     |               /-|   \-A-mutant-7
+  |     |              |  |
+  |   /-|            /-|   \-A-mutant-6
+--|  |  |           |  |
+  |  |  |         /-|   \-A-mutant-5
+  |  |  |        |  |
+  |  |  |      /-|   \-A-mutant-4
+  |  |  |     |  |
+  |  |  |   /-|   \-A-mutant-3
+  |  |  |  |  |
+  |  |   \-|   \-A-mutant-2
+  |  |     |
+  |  |      \-A-mutant-1
+  |  |
+   \-|         /-recombinant
+     |      /-|
+     |     |   \-B-mutant-1
+     |     |
+     |   /-|   /-B-mutant-2
+     |  |  |  |
+     |  |  |  |      /-B-mutant-4
+     |  |  |  |     |
+     |  |   \-|     |         /-B-mutant-7
+     |  |     |   /-|      /-|
+     |  |     |  |  |     |  |   /-B-mutant-8
+     |  |     |  |  |   /-|   \-|
+      \-|     |  |  |  |  |      \-B-mutant-9
+        |      \-|   \-|  |
+        |        |     |   \-B-mutant-6
+        |        |     |
+        |        |      \-B-mutant-5
+        |        |
+        |         \-B-mutant-3
+        |
+         \-B
+Analysing sample: recombinant-20A1-B1-raxml.newick
+
+   /-root
+  |
+  |               /-B-mutant-2
+  |              |
+  |              |         /-B-mutant-5
+  |              |      /-|
+  |              |     |  |   /-B-mutant-6
+  |            /-|     |   \-|
+  |           |  |     |     |   /-B-mutant-7
+  |           |  |   /-|      \-|
+  |           |  |  |  |        |   /-B-mutant-9
+--|           |  |  |  |         \-|
+  |         /-|   \-|  |            \-B-mutant-8
+  |        |  |     |  |
+  |        |  |     |   \-B-mutant-4
+  |        |  |     |
+  |      /-|  |      \-B-mutant-3
+  |     |  |  |
+  |     |  |   \-B-mutant-1
+  |   /-|  |
+  |  |  |   \-recombinant
+  |  |  |
+   \-|   \-B
+     |
+     |   /-A
+     |  |
+      \-|   /-A-mutant-1
+        |  |
+        |  |   /-A-mutant-2
+         \-|  |
+           |  |      /-A-mutant-4
+           |  |     |
+            \-|     |         /-A-mutant-7
+              |   /-|      /-|
+              |  |  |     |  |   /-A-mutant-9
+              |  |  |   /-|   \-|
+              |  |  |  |  |      \-A-mutant-8
+               \-|   \-|  |
+                 |     |   \-A-mutant-6
+                 |     |
+                 |      \-A-mutant-5
+                 |
+                  \-A-mutant-3
+Analysing sample: recombinant-30A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-recombinant
+  |     |
+  |   /-|   /-B
+  |  |  |  |
+  |  |  |  |   /-B-mutant-1
+--|  |   \-|  |
+  |  |     |  |      /-B-mutant-3
+  |  |     |  |     |
+  |  |     |  |   /-|   /-B-mutant-4
+  |  |      \-|  |  |  |
+  |  |        |  |  |  |      /-B-mutant-6
+  |  |        |  |   \-|   /-|
+  |  |        |  |     |  |  |   /-B-mutant-7
+   \-|        |  |     |  |   \-|
+     |         \-|      \-|     |   /-B-mutant-8
+     |           |        |      \-|
+     |           |        |         \-B-mutant-9
+     |           |        |
+     |           |         \-B-mutant-5
+     |           |
+     |            \-B-mutant-2
+     |
+     |   /-A
+     |  |
+      \-|   /-A-mutant-1
+        |  |
+         \-|   /-A-mutant-2
+           |  |
+            \-|   /-A-mutant-3
+              |  |
+               \-|   /-A-mutant-4
+                 |  |
+                 |  |      /-A-mutant-6
+                  \-|     |
+                    |   /-|      /-A-mutant-8
+                    |  |  |   /-|
+                    |  |   \-|   \-A-mutant-9
+                     \-|     |
+                       |      \-A-mutant-7
+                       |
+                        \-A-mutant-5
+Analysing sample: recombinant-40A1-B1-raxml.newick
+
+   /-root
+  |
+  |               /-B-mutant-3
+  |              |
+  |              |   /-B-mutant-4
+  |            /-|  |
+  |           |  |  |            /-B-mutant-9
+  |           |  |  |         /-|
+  |           |   \-|      /-|   \-B-mutant-8
+  |           |     |     |  |
+--|         /-|     |   /-|   \-B-mutant-7
+  |        |  |     |  |  |
+  |        |  |      \-|   \-B-mutant-6
+  |        |  |        |
+  |      /-|  |         \-B-mutant-5
+  |     |  |  |
+  |     |  |   \-B-mutant-2
+  |   /-|  |
+  |  |  |   \-B-mutant-1
+  |  |  |
+   \-|   \-B
+     |
+     |   /-A
+     |  |
+      \-|   /-recombinant
+        |  |
+         \-|   /-A-mutant-1
+           |  |
+            \-|   /-A-mutant-2
+              |  |
+               \-|   /-A-mutant-3
+                 |  |
+                  \-|   /-A-mutant-4
+                    |  |
+                     \-|   /-A-mutant-5
+                       |  |
+                        \-|   /-A-mutant-6
+                          |  |
+                           \-|      /-A-mutant-9
+                             |   /-|
+                              \-|   \-A-mutant-8
+                                |
+                                 \-A-mutant-7
+Analysing sample: recombinant-50A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-B
+  |     |
+  |     |         /-B-mutant-3
+  |     |        |
+  |     |        |               /-B-mutant-8
+  |     |        |            /-|
+--|     |        |         /-|   \-B-mutant-9
+  |   /-|      /-|        |  |
+  |  |  |     |  |      /-|   \-B-mutant-7
+  |  |  |     |  |     |  |
+  |  |  |     |  |   /-|   \-B-mutant-6
+  |  |  |   /-|  |  |  |
+  |  |  |  |  |   \-|   \-B-mutant-5
+  |  |  |  |  |     |
+   \-|   \-|  |      \-B-mutant-4
+     |     |  |
+     |     |   \-B-mutant-2
+     |     |
+     |      \-B-mutant-1
+     |
+     |   /-recombinant
+     |  |
+      \-|   /-A
+        |  |
+        |  |   /-A-mutant-1
+         \-|  |
+           |  |      /-A-mutant-3
+           |  |     |
+           |  |     |      /-A-mutant-5
+            \-|     |     |
+              |   /-|     |         /-A-mutant-9
+              |  |  |   /-|      /-|
+              |  |  |  |  |   /-|   \-A-mutant-8
+              |  |  |  |  |  |  |
+              |  |   \-|   \-|   \-A-mutant-7
+               \-|     |     |
+                 |     |      \-A-mutant-6
+                 |     |
+                 |      \-A-mutant-4
+                 |
+                  \-A-mutant-2
+Analysing sample: recombinant-60A1-B1-raxml.newick
+
+   /-root
+  |
+  |         /-B-mutant-1
+  |        |
+  |        |         /-B-mutant-4
+  |        |        |
+  |        |        |      /-B-mutant-6
+  |        |      /-|   /-|
+  |      /-|     |  |  |  |   /-B-mutant-7
+--|     |  |     |  |  |   \-|
+  |     |  |     |   \-|     |   /-B-mutant-8
+  |     |  |   /-|     |      \-|
+  |     |  |  |  |     |         \-B-mutant-9
+  |     |  |  |  |     |
+  |   /-|   \-|  |      \-B-mutant-5
+  |  |  |     |  |
+  |  |  |     |   \-B-mutant-3
+  |  |  |     |
+  |  |  |      \-B-mutant-2
+   \-|  |
+     |   \-B
+     |
+     |   /-A
+     |  |
+     |  |   /-recombinant
+      \-|  |
+        |  |   /-A-mutant-1
+        |  |  |
+         \-|  |         /-A-mutant-4
+           |  |        |
+           |  |        |         /-A-mutant-7
+           |  |      /-|      /-|
+            \-|     |  |     |  |   /-A-mutant-8
+              |     |  |   /-|   \-|
+              |     |  |  |  |      \-A-mutant-9
+              |   /-|   \-|  |
+              |  |  |     |   \-A-mutant-6
+              |  |  |     |
+               \-|  |      \-A-mutant-5
+                 |  |
+                 |   \-A-mutant-3
+                 |
+                  \-A-mutant-2
+Analysing sample: recombinant-70A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-A
+  |     |
+  |     |               /-A-mutant-4
+  |     |              |
+  |     |            /-|   /-A-mutant-5
+  |     |           |  |  |
+  |     |           |   \-|      /-A-mutant-7
+--|     |           |     |   /-|
+  |   /-|           |     |  |  |   /-A-mutant-8
+  |  |  |         /-|      \-|   \-|
+  |  |  |        |  |        |      \-A-mutant-9
+  |  |  |        |  |        |
+  |  |  |      /-|  |         \-A-mutant-6
+  |  |  |     |  |  |
+  |  |  |     |  |   \-A-mutant-3
+  |  |  |   /-|  |
+   \-|  |  |  |   \-A-mutant-2
+     |   \-|  |
+     |     |   \-recombinant
+     |     |
+     |      \-A-mutant-1
+     |
+     |   /-B
+     |  |
+      \-|   /-B-mutant-1
+        |  |
+        |  |   /-B-mutant-2
+         \-|  |
+           |  |            /-B-mutant-6
+           |  |           |
+           |  |         /-|      /-B-mutant-8
+            \-|        |  |   /-|
+              |        |   \-|   \-B-mutant-9
+              |      /-|     |
+              |     |  |      \-B-mutant-7
+              |   /-|  |
+              |  |  |   \-B-mutant-5
+               \-|  |
+                 |   \-B-mutant-4
+                 |
+                  \-B-mutant-3
+Analysing sample: recombinant-80A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-B
+  |     |
+  |     |   /-B-mutant-1
+  |     |  |
+  |   /-|  |            /-B-mutant-5
+--|  |  |  |           |
+  |  |  |  |           |         /-B-mutant-9
+  |  |  |  |         /-|      /-|
+  |  |   \-|        |  |   /-|   \-B-mutant-8
+  |  |     |        |  |  |  |
+  |  |     |      /-|   \-|   \-B-mutant-7
+  |  |     |     |  |     |
+  |  |     |     |  |      \-B-mutant-6
+   \-|     |   /-|  |
+     |     |  |  |   \-B-mutant-4
+     |      \-|  |
+     |        |   \-B-mutant-3
+     |        |
+     |         \-B-mutant-2
+     |
+     |   /-recombinant
+     |  |
+      \-|   /-A
+        |  |
+         \-|   /-A-mutant-1
+           |  |
+            \-|   /-A-mutant-2
+              |  |
+              |  |   /-A-mutant-3
+               \-|  |
+                 |  |      /-A-mutant-5
+                 |  |     |
+                  \-|   /-|      /-A-mutant-7
+                    |  |  |   /-|
+                    |  |  |  |  |   /-A-mutant-8
+                    |  |   \-|   \-|
+                     \-|     |      \-A-mutant-9
+                       |     |
+                       |      \-A-mutant-6
+                       |
+                        \-A-mutant-4
+Analysing sample: recombinant-90A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-A
+  |     |
+  |     |               /-A-mutant-4
+  |     |            /-|
+  |     |           |  |   /-A-mutant-5
+  |     |           |   \-|
+  |     |           |     |   /-A-mutant-6
+--|     |           |      \-|
+  |   /-|         /-|        |   /-A-mutant-7
+  |  |  |        |  |         \-|
+  |  |  |        |  |           |   /-A-mutant-8
+  |  |  |        |  |            \-|
+  |  |  |      /-|  |               \-A-mutant-9
+  |  |  |     |  |  |
+  |  |  |     |  |   \-A-mutant-3
+  |  |  |   /-|  |
+   \-|  |  |  |   \-A-mutant-2
+     |   \-|  |
+     |     |   \-A-mutant-1
+     |     |
+     |      \-recombinant
+     |
+     |   /-B
+     |  |
+      \-|   /-B-mutant-1
+        |  |
+         \-|   /-B-mutant-2
+           |  |
+            \-|   /-B-mutant-3
+              |  |
+               \-|   /-B-mutant-4
+                 |  |
+                  \-|   /-B-mutant-5
+                    |  |
+                     \-|   /-B-mutant-6
+                       |  |
+                        \-|      /-B-mutant-8
+                          |   /-|
+                           \-|   \-B-mutant-9
+                             |
+                              \-B-mutant-7

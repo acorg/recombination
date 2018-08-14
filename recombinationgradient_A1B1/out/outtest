@@ -1,0 +1,450 @@
+Analysing sample: recombinant-10A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-B
+  |     |
+  |     |            /-B-mutant-3
+  |     |           |
+  |     |           |      /-B-mutant-5
+  |     |         /-|   /-|
+  |     |        |  |  |  |   /-B-mutant-6
+--|     |        |  |  |   \-|
+  |   /-|        |  |  |     |   /-B-mutant-7
+  |  |  |        |   \-|      \-|
+  |  |  |      /-|     |        |   /-B-mutant-8
+  |  |  |     |  |     |         \-|
+  |  |  |     |  |     |            \-B-mutant-9
+  |  |  |     |  |     |
+  |  |  |   /-|  |      \-B-mutant-4
+  |  |  |  |  |  |
+   \-|  |  |  |   \-B-mutant-2
+     |   \-|  |
+     |     |   \-B-mutant-1
+     |     |
+     |      \-recombinant
+     |
+     |   /-A
+     |  |
+      \-|   /-A-mutant-1
+        |  |
+         \-|   /-A-mutant-2
+           |  |
+           |  |   /-A-mutant-3
+            \-|  |
+              |  |               /-A-mutant-8
+              |  |            /-|
+              |  |         /-|   \-A-mutant-9
+               \-|        |  |
+                 |      /-|   \-A-mutant-7
+                 |     |  |
+                 |   /-|   \-A-mutant-6
+                 |  |  |
+                  \-|   \-A-mutant-5
+                    |
+                     \-A-mutant-4
+0.020873
+0.020874
+1.000000000001e-06
+Distance of A1 to recombinant is 0.344017
+Distance of B1 to recombinant is 0.030695
+Analysing sample: recombinant-20A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-B
+  |     |
+  |   /-|   /-recombinant
+  |  |  |  |
+  |  |   \-|   /-B-mutant-1
+--|  |     |  |
+  |  |     |  |   /-B-mutant-2
+  |  |      \-|  |
+  |  |        |  |      /-B-mutant-4
+  |  |        |  |     |
+  |  |         \-|   /-|   /-B-mutant-5
+  |  |           |  |  |  |
+  |  |           |  |   \-|   /-B-mutant-6
+   \-|           |  |     |  |
+     |           |  |      \-|      /-B-mutant-9
+     |            \-|        |   /-|
+     |              |         \-|   \-B-mutant-8
+     |              |           |
+     |              |            \-B-mutant-7
+     |              |
+     |               \-B-mutant-3
+     |
+     |   /-A
+     |  |
+      \-|   /-A-mutant-1
+        |  |
+        |  |   /-A-mutant-2
+         \-|  |
+           |  |      /-A-mutant-4
+           |  |     |
+            \-|   /-|   /-A-mutant-5
+              |  |  |  |
+              |  |  |  |         /-A-mutant-9
+              |  |   \-|      /-|
+              |  |     |   /-|   \-A-mutant-8
+               \-|     |  |  |
+                 |      \-|   \-A-mutant-7
+                 |        |
+                 |         \-A-mutant-6
+                 |
+                  \-A-mutant-3
+1e-06
+0.010246
+0.010245
+Distance of A1 to recombinant is 0.242548
+Distance of B1 to recombinant is 0.010247
+Analysing sample: recombinant-30A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-B
+  |     |
+  |     |            /-B-mutant-3
+  |     |           |
+  |     |         /-|   /-B-mutant-4
+  |     |        |  |  |
+  |     |        |  |  |      /-B-mutant-6
+--|     |        |   \-|     |
+  |   /-|        |     |   /-|      /-B-mutant-9
+  |  |  |        |     |  |  |   /-|
+  |  |  |      /-|     |  |   \-|   \-B-mutant-8
+  |  |  |     |  |      \-|     |
+  |  |  |     |  |        |      \-B-mutant-7
+  |  |  |     |  |        |
+  |  |  |   /-|  |         \-B-mutant-5
+  |  |  |  |  |  |
+   \-|  |  |  |   \-B-mutant-2
+     |   \-|  |
+     |     |   \-B-mutant-1
+     |     |
+     |      \-recombinant
+     |
+     |   /-A
+     |  |
+      \-|   /-A-mutant-1
+        |  |
+         \-|   /-A-mutant-2
+           |  |
+            \-|   /-A-mutant-3
+              |  |
+              |  |   /-A-mutant-4
+               \-|  |
+                 |  |            /-A-mutant-9
+                 |  |         /-|
+                  \-|      /-|   \-A-mutant-8
+                    |     |  |
+                    |   /-|   \-A-mutant-7
+                    |  |  |
+                     \-|   \-A-mutant-6
+                       |
+                        \-A-mutant-5
+0.074896
+0.094894
+0.019998000000000002
+Distance of A1 to recombinant is 0.350845
+Distance of B1 to recombinant is 0.094895
+Analysing sample: recombinant-40A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-B
+  |     |
+  |     |      /-B-mutant-1
+  |     |     |
+  |     |   /-|   /-B-mutant-2
+  |     |  |  |  |
+--|   /-|  |   \-|   /-B-mutant-3
+  |  |  |  |     |  |
+  |  |  |  |      \-|   /-B-mutant-4
+  |  |  |  |        |  |
+  |  |  |  |         \-|   /-B-mutant-5
+  |  |  |  |           |  |
+  |  |   \-|            \-|      /-B-mutant-7
+  |  |     |              |   /-|
+  |  |     |              |  |  |   /-B-mutant-9
+   \-|     |               \-|   \-|
+     |     |                 |      \-B-mutant-8
+     |     |                 |
+     |     |                  \-B-mutant-6
+     |     |
+     |      \-recombinant
+     |
+     |   /-A
+     |  |
+     |  |   /-A-mutant-1
+      \-|  |
+        |  |      /-A-mutant-3
+        |  |     |
+        |  |   /-|   /-A-mutant-4
+         \-|  |  |  |
+           |  |   \-|   /-A-mutant-5
+           |  |     |  |
+           |  |      \-|      /-A-mutant-7
+           |  |        |   /-|
+            \-|        |  |  |   /-A-mutant-8
+              |         \-|   \-|
+              |           |      \-A-mutant-9
+              |           |
+              |            \-A-mutant-6
+              |
+               \-A-mutant-2
+0.084432
+0.106013
+0.021581000000000003
+Distance of A1 to recombinant is 0.438415
+Distance of B1 to recombinant is 0.106014
+Analysing sample: recombinant-50A1-B1-raxml.newick
+
+   /-root
+  |
+  |         /-A-mutant-1
+  |        |
+  |        |   /-A-mutant-2
+  |      /-|  |
+  |     |  |  |               /-A-mutant-7
+  |     |  |  |            /-|
+  |     |  |  |           |  |   /-A-mutant-8
+--|     |   \-|         /-|   \-|
+  |     |     |        |  |      \-A-mutant-9
+  |     |     |      /-|  |
+  |   /-|     |     |  |   \-A-mutant-6
+  |  |  |     |   /-|  |
+  |  |  |     |  |  |   \-A-mutant-5
+  |  |  |      \-|  |
+  |  |  |        |   \-A-mutant-4
+  |  |  |        |
+   \-|  |         \-A-mutant-3
+     |  |
+     |   \-A
+     |
+     |   /-B
+     |  |
+      \-|   /-recombinant
+        |  |
+         \-|   /-B-mutant-1
+           |  |
+            \-|   /-B-mutant-2
+              |  |
+              |  |   /-B-mutant-3
+               \-|  |
+                 |  |         /-B-mutant-6
+                 |  |        |
+                  \-|      /-|      /-B-mutant-9
+                    |     |  |   /-|
+                    |     |   \-|   \-B-mutant-8
+                    |   /-|     |
+                    |  |  |      \-B-mutant-7
+                     \-|  |
+                       |   \-B-mutant-5
+                       |
+                        \-B-mutant-4
+0.131349
+0.159018
+0.027669
+Distance of A1 to recombinant is 0.454216
+Distance of B1 to recombinant is 0.177400
+Analysing sample: recombinant-60A1-B1-raxml.newick
+
+   /-root
+  |
+  |         /-recombinant
+  |        |
+  |      /-|   /-A-mutant-1
+  |     |  |  |
+  |     |  |  |   /-A-mutant-2
+  |     |   \-|  |
+  |     |     |  |      /-A-mutant-4
+--|     |     |  |     |
+  |     |      \-|     |      /-A-mutant-6
+  |     |        |   /-|   /-|
+  |     |        |  |  |  |  |   /-A-mutant-7
+  |   /-|        |  |  |  |   \-|
+  |  |  |        |  |   \-|     |   /-A-mutant-9
+  |  |  |         \-|     |      \-|
+  |  |  |           |     |         \-A-mutant-8
+  |  |  |           |     |
+  |  |  |           |      \-A-mutant-5
+   \-|  |           |
+     |  |            \-A-mutant-3
+     |  |
+     |   \-A
+     |
+     |   /-B
+      \-|
+        |   /-B-mutant-1
+         \-|
+           |   /-B-mutant-2
+            \-|
+              |   /-B-mutant-3
+               \-|
+                 |   /-B-mutant-4
+                  \-|
+                    |   /-B-mutant-5
+                     \-|
+                       |   /-B-mutant-6
+                        \-|
+                          |   /-B-mutant-7
+                           \-|
+                             |   /-B-mutant-8
+                              \-|
+                                 \-B-mutant-9
+0.067454
+0.36672799999999994
+0.29927399999999993
+Distance of A1 to recombinant is 0.088232
+Distance of B1 to recombinant is 0.366729
+Analysing sample: recombinant-70A1-B1-raxml.newick
+
+   /-root
+  |
+  |               /-A-mutant-2
+  |              |
+  |              |   /-A-mutant-3
+  |            /-|  |
+  |           |  |  |      /-A-mutant-5
+  |           |  |  |     |
+  |           |   \-|   /-|   /-A-mutant-6
+  |           |     |  |  |  |
+  |           |     |  |   \-|      /-A-mutant-9
+--|         /-|     |  |     |   /-|
+  |        |  |      \-|      \-|   \-A-mutant-8
+  |        |  |        |        |
+  |        |  |        |         \-A-mutant-7
+  |      /-|  |        |
+  |     |  |  |         \-A-mutant-4
+  |     |  |  |
+  |   /-|  |   \-A-mutant-1
+  |  |  |  |
+  |  |  |   \-recombinant
+  |  |  |
+   \-|   \-A
+     |
+     |   /-B
+     |  |
+      \-|   /-B-mutant-1
+        |  |
+         \-|   /-B-mutant-2
+           |  |
+           |  |   /-B-mutant-3
+            \-|  |
+              |  |         /-B-mutant-6
+              |  |        |
+               \-|      /-|      /-B-mutant-9
+                 |     |  |   /-|
+                 |     |   \-|   \-B-mutant-8
+                 |   /-|     |
+                 |  |  |      \-B-mutant-7
+                  \-|  |
+                    |   \-B-mutant-5
+                    |
+                     \-B-mutant-4
+0.086349
+0.463341
+0.376992
+Distance of A1 to recombinant is 0.095494
+Distance of B1 to recombinant is 0.463342
+Analysing sample: recombinant-80A1-B1-raxml.newick
+
+   /-root
+  |
+  |      /-B
+  |     |
+  |   /-|   /-B-mutant-1
+  |  |  |  |
+  |  |   \-|   /-B-mutant-2
+--|  |     |  |
+  |  |      \-|   /-B-mutant-3
+  |  |        |  |
+  |  |         \-|   /-B-mutant-4
+  |  |           |  |
+  |  |           |  |      /-B-mutant-6
+  |  |            \-|   /-|
+   \-|              |  |  |   /-B-mutant-7
+     |              |  |   \-|
+     |               \-|     |   /-B-mutant-8
+     |                 |      \-|
+     |                 |         \-B-mutant-9
+     |                 |
+     |                  \-B-mutant-5
+     |
+     |   /-A
+     |  |
+      \-|   /-A-mutant-1
+        |  |
+        |  |   /-recombinant
+         \-|  |
+           |  |      /-A-mutant-3
+           |  |     |
+           |  |   /-|   /-A-mutant-4
+            \-|  |  |  |
+              |  |   \-|   /-A-mutant-5
+              |  |     |  |
+              |  |      \-|   /-A-mutant-6
+              |  |        |  |
+               \-|         \-|      /-A-mutant-9
+                 |           |   /-|
+                 |            \-|   \-A-mutant-8
+                 |              |
+                 |               \-A-mutant-7
+                 |
+                  \-A-mutant-2
+0.041133
+0.348232
+0.307099
+Distance of A1 to recombinant is 0.041135
+Distance of B1 to recombinant is 0.348233
+Analysing sample: recombinant-90A1-B1-raxml.newick
+
+   /-root
+  |
+  |         /-recombinant
+  |        |
+  |        |         /-A-mutant-3
+  |        |        |
+  |        |        |      /-A-mutant-5
+  |        |        |     |
+  |        |      /-|     |         /-A-mutant-9
+  |      /-|     |  |   /-|      /-|
+  |     |  |     |  |  |  |   /-|   \-A-mutant-8
+  |     |  |     |  |  |  |  |  |
+--|     |  |     |   \-|   \-|   \-A-mutant-7
+  |     |  |   /-|     |     |
+  |     |  |  |  |     |      \-A-mutant-6
+  |   /-|  |  |  |     |
+  |  |  |   \-|  |      \-A-mutant-4
+  |  |  |     |  |
+  |  |  |     |   \-A-mutant-2
+  |  |  |     |
+  |  |  |      \-A-mutant-1
+  |  |  |
+  |  |   \-A
+  |  |
+  |  |      /-B-mutant-1
+   \-|     |
+     |     |         /-B-mutant-4
+     |     |        |
+     |     |      /-|   /-B-mutant-5
+     |     |     |  |  |
+     |   /-|     |   \-|      /-B-mutant-7
+     |  |  |     |     |   /-|
+     |  |  |     |     |  |  |   /-B-mutant-9
+     |  |  |   /-|      \-|   \-|
+     |  |  |  |  |        |      \-B-mutant-8
+     |  |  |  |  |        |
+      \-|   \-|  |         \-B-mutant-6
+        |     |  |
+        |     |   \-B-mutant-3
+        |     |
+        |      \-B-mutant-2
+        |
+         \-B
+0.040709
+0.412277
+0.371568
+Distance of A1 to recombinant is 0.040711
+Distance of B1 to recombinant is 0.412278

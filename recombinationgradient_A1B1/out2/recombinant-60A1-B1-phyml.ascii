@@ -1,0 +1,42 @@
+
+   /-root
+  |
+  |         /-recombinant
+  |      /-|
+  |     |   \-A-mutant-1
+  |   /-|
+  |  |  |   /-A-mutant-2
+--|  |   \-|
+  |  |     |   /-A-mutant-3
+  |  |      \-|
+  |  |        |   /-A-mutant-4
+  |  |         \-|
+  |  |           |   /-A-mutant-5
+  |  |            \-|
+   \-|              |   /-A-mutant-6
+     |               \-|
+     |                 |   /-A-mutant-7
+     |                  \-|
+     |                    |   /-A-mutant-8
+     |                     \-|
+     |                        \-A-mutant-9
+     |
+     |   /-B
+      \-|
+        |   /-B-mutant-1
+         \-|
+           |   /-B-mutant-2
+            \-|
+              |   /-B-mutant-3
+               \-|
+                 |   /-B-mutant-4
+                  \-|
+                    |   /-B-mutant-5
+                     \-|
+                       |   /-B-mutant-6
+                        \-|
+                          |   /-B-mutant-7
+                           \-|
+                             |   /-B-mutant-8
+                              \-|
+                                 \-B-mutant-9
