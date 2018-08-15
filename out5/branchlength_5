@@ -1,0 +1,313 @@
+Analysing sample: recombinant-50A1-50B1-raxml.newick
+The branchlength of root is 0.000000.
+The support value of root is 1.000000.
+The branchlength of recombinant is 0.145322.
+The support value of recombinant is 58.000000.
+The branchlength of A-mutant-1 is 0.000001.
+The support value of A-mutant-1 is 90.000000.
+The branchlength of A-mutant-2 is 0.000001.
+The support value of A-mutant-2 is 60.000000.
+The branchlength of A-mutant-3 is 0.000001.
+The support value of A-mutant-3 is 99.000000.
+The branchlength of A-mutant-4 is 0.000001.
+The support value of A-mutant-4 is 100.000000.
+The branchlength of A-mutant-6 is 0.008595.
+The support value of A-mutant-6 is 100.000000.
+The branchlength of A-mutant-7 is 0.000001.
+The support value of A-mutant-7 is 100.000000.
+The branchlength of A-mutant-8 is 0.000001.
+The support value of A-mutant-8 is 95.000000.
+The branchlength of A-mutant-9 is 0.020515.
+The support value of A-mutant-9 is 95.000000.
+The branchlength of A-mutant-5 is 0.000001.
+The support value of A-mutant-5 is 95.000000.
+The branchlength of A is 0.000001.
+The support value of A is 89.000000.
+The branchlength of B is 0.008579.
+The support value of B is 79.000000.
+The branchlength of B-mutant-1 is 0.000001.
+The support value of B-mutant-1 is 99.000000.
+The branchlength of B-mutant-2 is 0.000001.
+The support value of B-mutant-2 is 83.000000.
+The branchlength of B-mutant-4 is 0.000001.
+The support value of B-mutant-4 is 79.000000.
+The branchlength of B-mutant-5 is 0.000001.
+The support value of B-mutant-5 is 86.000000.
+The branchlength of B-mutant-8 is 0.000001.
+The support value of B-mutant-8 is 96.000000.
+The branchlength of B-mutant-9 is 0.030164.
+The support value of B-mutant-9 is 96.000000.
+The branchlength of B-mutant-7 is 0.000001.
+The support value of B-mutant-7 is 89.000000.
+The branchlength of B-mutant-6 is 0.000001.
+The support value of B-mutant-6 is 58.000000.
+The branchlength of B-mutant-3 is 0.000001.
+The support value of B-mutant-3 is 100.000000.
+Analysing sample: recombinant-50A1-50B9-raxml.newick
+The branchlength of root is 0.005822.
+The support value of root is 1.000000.
+The branchlength of B is 0.000001.
+The support value of B is 68.000000.
+The branchlength of B-mutant-2 is 0.000001.
+The support value of B-mutant-2 is 68.000000.
+The branchlength of B-mutant-3 is 0.000001.
+The support value of B-mutant-3 is 64.000000.
+The branchlength of B-mutant-4 is 0.000001.
+The support value of B-mutant-4 is 63.000000.
+The branchlength of B-mutant-7 is 0.000001.
+The support value of B-mutant-7 is 64.000000.
+The branchlength of recombinant is 0.240073.
+The support value of recombinant is 62.000000.
+The branchlength of B-mutant-9 is 0.008037.
+The support value of B-mutant-9 is 62.000000.
+The branchlength of B-mutant-8 is 0.000001.
+The support value of B-mutant-8 is 64.000000.
+The branchlength of B-mutant-6 is 0.000001.
+The support value of B-mutant-6 is 64.000000.
+The branchlength of B-mutant-5 is 0.000001.
+The support value of B-mutant-5 is 56.000000.
+The branchlength of B-mutant-1 is 0.000001.
+The support value of B-mutant-1 is 70.000000.
+The branchlength of A is 0.000001.
+The support value of A is 95.000000.
+The branchlength of A-mutant-1 is 0.000001.
+The support value of A-mutant-1 is 93.000000.
+The branchlength of A-mutant-2 is 0.008690.
+The support value of A-mutant-2 is 100.000000.
+The branchlength of A-mutant-4 is 0.000001.
+The support value of A-mutant-4 is 100.000000.
+The branchlength of A-mutant-5 is 0.000001.
+The support value of A-mutant-5 is 100.000000.
+The branchlength of A-mutant-6 is 0.000001.
+The support value of A-mutant-6 is 100.000000.
+The branchlength of A-mutant-8 is 0.000001.
+The support value of A-mutant-8 is 100.000000.
+The branchlength of A-mutant-9 is 0.030087.
+The support value of A-mutant-9 is 100.000000.
+The branchlength of A-mutant-7 is 0.000001.
+The support value of A-mutant-7 is 60.000000.
+The branchlength of A-mutant-3 is 0.000001.
+The support value of A-mutant-3 is 99.000000.
+Analysing sample: recombinant-50A5-50random-raxml.newick
+The branchlength of root is 0.000000.
+The support value of root is 1.000000.
+The branchlength of B is 0.000001.
+The support value of B is 100.000000.
+The branchlength of B-mutant-3 is 0.000001.
+The support value of B-mutant-3 is 100.000000.
+The branchlength of B-mutant-4 is 0.000001.
+The support value of B-mutant-4 is 95.000000.
+The branchlength of B-mutant-5 is 0.000001.
+The support value of B-mutant-5 is 100.000000.
+The branchlength of B-mutant-9 is 0.095456.
+The support value of B-mutant-9 is 100.000000.
+The branchlength of B-mutant-8 is 0.000001.
+The support value of B-mutant-8 is 100.000000.
+The branchlength of B-mutant-7 is 0.000001.
+The support value of B-mutant-7 is 83.000000.
+The branchlength of B-mutant-6 is 0.000001.
+The support value of B-mutant-6 is 100.000000.
+The branchlength of B-mutant-2 is 0.000001.
+The support value of B-mutant-2 is 99.000000.
+The branchlength of B-mutant-1 is 0.000001.
+The support value of B-mutant-1 is 100.000000.
+The branchlength of A is 0.000001.
+The support value of A is 99.000000.
+The branchlength of A-mutant-1 is 0.000001.
+The support value of A-mutant-1 is 100.000000.
+The branchlength of A-mutant-2 is 0.000001.
+The support value of A-mutant-2 is 98.000000.
+The branchlength of A-mutant-3 is 0.000001.
+The support value of A-mutant-3 is 100.000000.
+The branchlength of A-mutant-4 is 0.000001.
+The support value of A-mutant-4 is 100.000000.
+The branchlength of recombinant is 0.497675.
+The support value of recombinant is 37.000000.
+The branchlength of A-mutant-5 is 0.000001.
+The support value of A-mutant-5 is 37.000000.
+The branchlength of A-mutant-6 is 0.000001.
+The support value of A-mutant-6 is 100.000000.
+The branchlength of A-mutant-9 is 0.030645.
+The support value of A-mutant-9 is 99.000000.
+The branchlength of A-mutant-8 is 0.000001.
+The support value of A-mutant-8 is 99.000000.
+The branchlength of A-mutant-7 is 0.000001.
+The support value of A-mutant-7 is 95.000000.
+Analysing sample: recombinant-75A1-25B1-raxml.newick
+The branchlength of root is 0.000000.
+The support value of root is 1.000000.
+The branchlength of A is 0.000001.
+The support value of A is 96.000000.
+The branchlength of A-mutant-1 is 0.000001.
+The support value of A-mutant-1 is 91.000000.
+The branchlength of recombinant is 0.054362.
+The support value of recombinant is 58.000000.
+The branchlength of A-mutant-2 is 0.000001.
+The support value of A-mutant-2 is 100.000000.
+The branchlength of A-mutant-3 is 0.000001.
+The support value of A-mutant-3 is 93.000000.
+The branchlength of A-mutant-4 is 0.000001.
+The support value of A-mutant-4 is 99.000000.
+The branchlength of A-mutant-5 is 0.000001.
+The support value of A-mutant-5 is 100.000000.
+The branchlength of A-mutant-7 is 0.000001.
+The support value of A-mutant-7 is 100.000000.
+The branchlength of A-mutant-9 is 0.010342.
+The support value of A-mutant-9 is 99.000000.
+The branchlength of A-mutant-8 is 0.000001.
+The support value of A-mutant-8 is 99.000000.
+The branchlength of A-mutant-6 is 0.000001.
+The support value of A-mutant-6 is 99.000000.
+The branchlength of B is 0.000001.
+The support value of B is 98.000000.
+The branchlength of B-mutant-1 is 0.000001.
+The support value of B-mutant-1 is 100.000000.
+The branchlength of B-mutant-2 is 0.000001.
+The support value of B-mutant-2 is 100.000000.
+The branchlength of B-mutant-5 is 0.000001.
+The support value of B-mutant-5 is 98.000000.
+The branchlength of B-mutant-6 is 0.000001.
+The support value of B-mutant-6 is 100.000000.
+The branchlength of B-mutant-7 is 0.000001.
+The support value of B-mutant-7 is 96.000000.
+The branchlength of B-mutant-8 is 0.000001.
+The support value of B-mutant-8 is 98.000000.
+The branchlength of B-mutant-9 is 0.040231.
+The support value of B-mutant-9 is 98.000000.
+The branchlength of B-mutant-4 is 0.000001.
+The support value of B-mutant-4 is 99.000000.
+The branchlength of B-mutant-3 is 0.000001.
+The support value of B-mutant-3 is 100.000000.
+Analysing sample: recombinant-75A1-25B9-raxml.newick
+The branchlength of root is 0.004921.
+The support value of root is 1.000000.
+The branchlength of recombinant is 0.063947.
+The support value of recombinant is 99.000000.
+The branchlength of A-mutant-3 is 0.000001.
+The support value of A-mutant-3 is 100.000000.
+The branchlength of A-mutant-4 is 0.000001.
+The support value of A-mutant-4 is 99.000000.
+The branchlength of A-mutant-5 is 0.000001.
+The support value of A-mutant-5 is 100.000000.
+The branchlength of A-mutant-6 is 0.000001.
+The support value of A-mutant-6 is 62.000000.
+The branchlength of A-mutant-7 is 0.000001.
+The support value of A-mutant-7 is 99.000000.
+The branchlength of A-mutant-9 is 0.062628.
+The support value of A-mutant-9 is 100.000000.
+The branchlength of A-mutant-8 is 0.000001.
+The support value of A-mutant-8 is 100.000000.
+The branchlength of A-mutant-2 is 0.000001.
+The support value of A-mutant-2 is 99.000000.
+The branchlength of A-mutant-1 is 0.000001.
+The support value of A-mutant-1 is 71.000000.
+The branchlength of A is 0.015406.
+The support value of A is 76.000000.
+The branchlength of B is 0.000001.
+The support value of B is 99.000000.
+The branchlength of B-mutant-1 is 0.000001.
+The support value of B-mutant-1 is 92.000000.
+The branchlength of B-mutant-2 is 0.000001.
+The support value of B-mutant-2 is 100.000000.
+The branchlength of B-mutant-3 is 0.000001.
+The support value of B-mutant-3 is 88.000000.
+The branchlength of B-mutant-9 is 0.010055.
+The support value of B-mutant-9 is 99.000000.
+The branchlength of B-mutant-8 is 0.000001.
+The support value of B-mutant-8 is 99.000000.
+The branchlength of B-mutant-7 is 0.000001.
+The support value of B-mutant-7 is 99.000000.
+The branchlength of B-mutant-6 is 0.000001.
+The support value of B-mutant-6 is 99.000000.
+The branchlength of B-mutant-5 is 0.000001.
+The support value of B-mutant-5 is 98.000000.
+The branchlength of B-mutant-4 is 0.000001.
+The support value of B-mutant-4 is 92.000000.
+Analysing sample: recombinant-75A5-25B5-raxml.newick
+The branchlength of root is 0.000000.
+The support value of root is 1.000000.
+The branchlength of A-mutant-1 is 0.000001.
+The support value of A-mutant-1 is 95.000000.
+The branchlength of recombinant is 0.157407.
+The support value of recombinant is 53.000000.
+The branchlength of A-mutant-7 is 0.000001.
+The support value of A-mutant-7 is 91.000000.
+The branchlength of A-mutant-9 is 0.030737.
+The support value of A-mutant-9 is 99.000000.
+The branchlength of A-mutant-8 is 0.000001.
+The support value of A-mutant-8 is 99.000000.
+The branchlength of A-mutant-6 is 0.000001.
+The support value of A-mutant-6 is 100.000000.
+The branchlength of A-mutant-5 is 0.000001.
+The support value of A-mutant-5 is 99.000000.
+The branchlength of A-mutant-4 is 0.010250.
+The support value of A-mutant-4 is 66.000000.
+The branchlength of A-mutant-3 is 0.000001.
+The support value of A-mutant-3 is 72.000000.
+The branchlength of A-mutant-2 is 0.000001.
+The support value of A-mutant-2 is 67.000000.
+The branchlength of A is 0.000001.
+The support value of A is 96.000000.
+The branchlength of B is 0.000001.
+The support value of B is 96.000000.
+The branchlength of B-mutant-1 is 0.000001.
+The support value of B-mutant-1 is 95.000000.
+The branchlength of B-mutant-2 is 0.000001.
+The support value of B-mutant-2 is 97.000000.
+The branchlength of B-mutant-3 is 0.000001.
+The support value of B-mutant-3 is 96.000000.
+The branchlength of B-mutant-4 is 0.000001.
+The support value of B-mutant-4 is 100.000000.
+The branchlength of B-mutant-5 is 0.000001.
+The support value of B-mutant-5 is 96.000000.
+The branchlength of B-mutant-7 is 0.000001.
+The support value of B-mutant-7 is 99.000000.
+The branchlength of B-mutant-9 is 0.063267.
+The support value of B-mutant-9 is 77.000000.
+The branchlength of B-mutant-8 is 0.000001.
+The support value of B-mutant-8 is 77.000000.
+The branchlength of B-mutant-6 is 0.000001.
+The support value of B-mutant-6 is 98.000000.
+Analysing sample: two-ladders-raxml.newick
+The branchlength of root is 0.003265.
+The support value of root is 1.000000.
+The branchlength of B is 0.000001.
+The support value of B is 100.000000.
+The branchlength of B-mutant-3 is 0.000001.
+The support value of B-mutant-3 is 98.000000.
+The branchlength of B-mutant-9 is 0.020148.
+The support value of B-mutant-9 is 100.000000.
+The branchlength of B-mutant-8 is 0.000001.
+The support value of B-mutant-8 is 100.000000.
+The branchlength of B-mutant-7 is 0.000001.
+The support value of B-mutant-7 is 98.000000.
+The branchlength of B-mutant-6 is 0.000001.
+The support value of B-mutant-6 is 100.000000.
+The branchlength of B-mutant-5 is 0.000001.
+The support value of B-mutant-5 is 96.000000.
+The branchlength of B-mutant-4 is 0.000001.
+The support value of B-mutant-4 is 97.000000.
+The branchlength of B-mutant-2 is 0.000001.
+The support value of B-mutant-2 is 87.000000.
+The branchlength of B-mutant-1 is 0.000001.
+The support value of B-mutant-1 is 92.000000.
+The branchlength of A is 0.000001.
+The support value of A is 100.000000.
+The branchlength of A-mutant-1 is 0.000001.
+The support value of A-mutant-1 is 97.000000.
+The branchlength of A-mutant-2 is 0.000001.
+The support value of A-mutant-2 is 100.000000.
+The branchlength of A-mutant-3 is 0.000001.
+The support value of A-mutant-3 is 100.000000.
+The branchlength of A-mutant-4 is 0.000001.
+The support value of A-mutant-4 is 100.000000.
+The branchlength of A-mutant-5 is 0.000001.
+The support value of A-mutant-5 is 97.000000.
+The branchlength of A-mutant-6 is 0.000001.
+The support value of A-mutant-6 is 100.000000.
+The branchlength of A-mutant-7 is 0.000001.
+The support value of A-mutant-7 is 90.000000.
+The branchlength of A-mutant-9 is 0.052090.
+The support value of A-mutant-9 is 92.000000.
+The branchlength of A-mutant-8 is 0.000001.
+The support value of A-mutant-8 is 92.000000.

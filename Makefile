@@ -39,11 +39,11 @@ $(OUTDIR)/%-raxml.newick: $(OUTDIR)/%.phy
 $(OUTDIR)/%.ascii: $(OUTDIR)/%.newick
 	newick-to-ascii.py --outgroup $(OUTGROUP) < $< > $@
 
-uptree_branchlength:
-	uptree_branchlength.sh
+minimal_distance:
+	minimal_distance.sh
 
-minimal_branchlength:
-	minimal_branchlength.sh
+branchlength:
+	branchlength.sh
 
 clean:
 	rm -f $(ASCII) $(NEWICK) $(PHY) $(OUTDIR)/*xxxxx* xxxxx.*

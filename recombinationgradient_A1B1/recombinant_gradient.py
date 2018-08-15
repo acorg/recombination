@@ -14,8 +14,9 @@ def rec_parentdistance(newickfile):
         treedata = treedata.strip()
     t = Tree(treedata)
 
-    # Reroot the tree.
-    t.set_outgroup("root")
+    # Reroot the tree through midpoint rooting.
+    midpoint = t.get_midpoint_outgroup()
+    t.set_outgroup(midpoint)
     print(t)
 
     # Find distance from recombinant to A1

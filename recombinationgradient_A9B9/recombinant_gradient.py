@@ -15,7 +15,8 @@ def rec_parentdistance(newickfile):
     t = Tree(treedata)
 
     # Reroot the tree.
-    t.set_outgroup("root")
+    midpoint = t.get_midpoint_outgroup()
+    t.set_outgroup(midpoint)
     print(t)
 
     # Find distance from recombinant to A9
@@ -47,5 +48,5 @@ plt.xlabel("Percentage of recombinant from A9 (from B9=100-A9)", fontsize=14)
 plt.ylabel('Distance to recombinant', fontsize=14)
 plt.legend(fontsize=12)
 plt.tight_layout()
-plotpath = '../recombinants_A9B9.png'
+plotpath = 'recombinants_A9B9.png'
 plt.savefig(plotpath, dpi=300)
