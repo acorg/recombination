@@ -32,8 +32,8 @@ $(OUTDIR)/%-phyml.newick: $(OUTDIR)/%.phy
 	rm -f $(OUTDIR)/*.phy_phyml_*_xxxxx*
 
 $(OUTDIR)/%-raxml.newick: $(OUTDIR)/%.phy
-	raxml-ng --all --msa $< --model GTR+G --prefix xxxxx --seed $$RANDOM --threads 1 >/dev/null 
-	mv xxxxx.raxml.support $@
+	raxml-ng --msa $< --model GTR+G --prefix xxxxx --seed $$RANDOM --threads 1 >/dev/null 
+	mv xxxxx.raxml.bestTree $@
 	rm -f xxxxx.*
 
 $(OUTDIR)/%.ascii: $(OUTDIR)/%.newick
