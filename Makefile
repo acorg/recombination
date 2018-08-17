@@ -32,12 +32,18 @@ $(OUTDIR)/%-phyml.newick: $(OUTDIR)/%.phy
 	rm -f $(OUTDIR)/*.phy_phyml_*_xxxxx*
 
 $(OUTDIR)/%-raxml.newick: $(OUTDIR)/%.phy
-	raxml-ng --msa $< --model GTR+G --prefix xxxxx --seed $$RANDOM --threads 1 >/dev/null 
-	mv xxxxx.raxml.bestTree $@
+	raxml-ng --all --msa $< --model GTR+G --prefix xxxxx --seed $$RANDOM --threads 1 >/dev/null 
+	mv xxxxx.raxml.support $@
 	rm -f xxxxx.*
 
 $(OUTDIR)/%.ascii: $(OUTDIR)/%.newick
 	newick-to-ascii.py --outgroup $(OUTGROUP) < $< > $@
+
+minimal_distance:
+	minimal_distance.sh
+
+branchlength:
+	branchlength.sh
 
 clean:
 	rm -f $(ASCII) $(NEWICK) $(PHY) $(OUTDIR)/*xxxxx* xxxxx.*

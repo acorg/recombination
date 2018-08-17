@@ -1,0 +1,58 @@
+{
+    "variables": {
+        "length": 100,
+        "root to AB rate": 0.1,
+        "mutant rate": 0.05,
+        "mutant count": 9
+    },
+    "sequences": [
+        {
+            "id": "root",
+            "length": "%(length)d",
+            "skip": true
+        },
+        {
+            "id": "A",
+            "from id": "root",
+            "length": "%(length)d",
+            "mutation rate": "%(root to AB rate)f"
+        },
+        {
+            "from id": "A",
+            "id prefix": "A-mutant-",
+            "length": "%(length)d",
+            "count": "%(mutant count)d",
+            "mutation rate": "%(mutant rate)f",
+            "ratchet": true
+        },
+        {
+            "id": "B",
+            "from id": "root",
+            "length": "%(length)d",
+            "mutation rate": "%(root to AB rate)f"
+        },
+        {
+            "from id": "B",
+            "id prefix": "B-mutant-",
+            "length": "%(length)d",
+            "count": "%(mutant count)d",
+            "mutation rate": "%(mutant rate)f",
+            "ratchet": true
+        },
+        {
+            "id": "recombinant",
+            "sections": [
+                {
+                    "from id": "A-mutant-9",
+                    "start": 1,
+                    "length": 80
+                },
+                {
+                    "from id": "B-mutant-9",
+                    "start": 81,
+                    "length": 20
+                }
+            ]
+        }
+    ]
+}
